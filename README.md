@@ -23,4 +23,3 @@ Flow cytometry experimental data files (`.fcs`), corresponding to biological cha
 
 This repository will be archived and assigned a DOI upon publication.
 
-2025 Edoardo Jun Mattioli
